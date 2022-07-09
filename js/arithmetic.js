@@ -1,15 +1,15 @@
-let a=50;
-let b=50;
-let total1=a+b;
-let c=200;
-let d=100;
-let total2=c-d;
-let e=19;
-let f=19;
-let total3=e*f;
-let g=300;
-let h=2;
-let total4=g/h;
+var a=50;
+var b=50;
+var total1=a+b;
+var c=200;
+var d=100;
+var total2=c-d;
+var e=19;
+var f=19;
+var total3=e*f;
+var g=300;
+var h=2;
+var total4=g/h;
 
 console.log("Addition Ans :",total1);
 console.log("Subraction Ans :",total2);

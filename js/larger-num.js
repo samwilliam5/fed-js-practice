@@ -1,8 +1,8 @@
-var x=12,y=10;
-if (x>y) {
-    console.log("This is lagrest number");
+var x=42,y=20;
+if (x>=y) {
+    console.log(" x is greater");
 }
 else{
-    console.log("This is smallest number");
+    console.log("x is not greater");
 
 }

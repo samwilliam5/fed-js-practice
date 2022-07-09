@@ -1,7 +1,7 @@
 var x=10;
 if(x>0){
-    console.log("This number is postive");
+    console.log("This give number is postive");
 }
 else{
-    console.log("This number is negative");
+    console.log("The given number is not postive");
 }

@@ -1,0 +1,11 @@
+console.log("ascending");
+for(var i=0;i<3;i++)
+{
+ console.log(i);   
+}
+console.log("descending");
+for(var i=3;i>0;i--)
+{
+    console.log(i);   
+
+}
